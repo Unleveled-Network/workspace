@@ -26,7 +26,7 @@ You will need to install these onto whatever operating system your running this 
     JDK7 Installed (Should build with JDK8 as well.)
     Gradle Installed
     unzip/zip Installed
-    https://github.com/MCUpdater/workspace Cloned and Built
+    https://github.com/unlevled-Network/workspace Cloned and Built
     Your pre-generated FastPack xml file.
 
 ## Compile your MCUpdater Launcher
@@ -36,13 +36,13 @@ You can do this with one of two methods you can download the zip file directly.
 
 Heres some vague linux instructions which should work on most linux terminals (this can technically include OS X)
 
-    wget https://github.com/MCUpdater/workspace/archive/master.zip
+    wget https://github.com/Unleveled-Network/workspace/archive/master.zip
     unzip master.zip
     cd workspace/
 
 OR
 
-    git clone https://github.com/MCUpdater/workspace.git ./workspace/
+    git clone https://github.com/Unleveled-Network/workspace.git ./workspace/
     cd workspace/
 
 
